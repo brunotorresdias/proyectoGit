@@ -12,6 +12,7 @@ public class ProyectoGit {
      */
     public static void main(String[] args) {
         cuenta c1 = new cuenta("bruno_torres", "cont1234");
+        cuenta c2 = new cuenta("joaco_12", "gameOver32");
     }
     
 }
